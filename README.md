@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Backend <br>
 [![roadmap.sh](https://roadmap.sh/card/tall/6950795fbe04d9e99dc2bc03?variant=dark&roadmaps=backend)](https://roadmap.sh)
 - 📫 How to reach me: zentekdigitalbusiness@gmail.com
-- 
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
